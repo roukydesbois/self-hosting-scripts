@@ -1,2 +1,2 @@
-# fde-usb-rpi
-A set of scripts to create a USB key on which a Raspberry Pi can boot with full-disk encryption, and remote unlock using dropbear
+# self-hosting-scripts
+A set of scripts I use to self host services on my Raspberry Pis and other hardware
